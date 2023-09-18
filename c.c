@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-    printf("�赵");
+    printf("배도");
     return 0; 
 }
